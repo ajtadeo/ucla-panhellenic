@@ -46,8 +46,8 @@ We'll use a really common Node.js project workflow + Yarn!
 First, let's clone our repository, and install all of our yarn dependencies:
 
 ```
-git clone https://github.com/uclaacm/YOUR_PROJECT_URL_HERE.git
-cd YOUR_PROJECT_URL_HERE
+git clone https://github.com/uclaacm/ucla-panhellenic.git
+cd ucla-panhellenic
 ```
 
 The instructions to install Node.js will be different based on which platform you're running. It's heavily advised to install your Node.js using NVM (Node Version Manager) because it's easy to manage a standardized version and update it as needed.
