@@ -1,22 +1,9 @@
-# Your Teach LA Project Here!
+# UCLA Panhellenic
 
 ![Production Build](https://github.com/uclaacm/teach-la-react-starter-barebones/workflows/Production%20Build/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4932fc43-c02a-4724-bfc0-0253ac602219/deploy-status)](https://app.netlify.com/sites/teach-la-ts-react-starter/deploys)
-
-What's this? This is a template repository that sets up a few minor systems for a React micro-app, which is something that we've done frequently at Teach LA. Here's what it does:
-
-- has GitHub Actions automatically set up for testing and linting builds
-- has a default Dependabot config for `yarn` (with monthly audits)
-- has Netlify redirects set up for multi-route SPAs
-- has Webpack that helps bundle JS/TS files for browser usage
-- Husky for Git Hooks which enforces linting rules for files on commit
-- ESLint for our .TS and .TSX files
-- StyleLint with SASS guidelines for CSS, SASS, SCSS stylesheets.
-- includes the [Contributor Covenant](https://www.contributor-covenant.org/) in `CODE_OF_CONDUCT.md`
-- has a little bit of documentation for new people!
-- Some extra stuff like changing the app logo to TeachLA's logo and setting up the `src` directory for further development!
 
 ## Overview
 
@@ -24,15 +11,6 @@ What's this? This is a template repository that sets up a few minor systems for 
 
 ## Things You Should Do (and then delete this section)
 
-Thanks for using our template! We hope this makes your life developing significantly easier.
-
-Things you should do **after using this as a template**:
-
-- [ ] find-and-replace `YOUR_PROJECT_URL_HERE` with your GitHub repo's project name in this README (it's in a few places, so use an editor!)
-- [ ] set up [Netlify](https://www.netlify.com/) for this app - talk to jiin (`@doubleiis02`) if you need access to the Teach LA Netlify team.
-- [ ] turn on "Automatically delete head branches" in GitHub `Settings > Options`
-- [ ] in `Settings > Branches`, create a branch protection rule for `main` that requires PR reviews. Also require status checks, like passing `build`.
-- [ ] _only_ enable squash merging in Github `Settings > Options > Merge Button` (and disable merge commits and rebase merging).
 - [ ] this is a reminder to periodically run accessibility checks & Search Engine Optimization on your project by running `inspect element / developer tools > Lighthouse`
 - [ ] update the README badges for the GitHub Actions and Netlify with the correct links!
 - [ ] update and delete this documentation!
