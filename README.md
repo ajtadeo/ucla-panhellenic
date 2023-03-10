@@ -1,9 +1,9 @@
 # UCLA Panhellenic
 
-![Production Build](https://github.com/uclaacm/teach-la-react-starter-barebones/workflows/Production%20Build/badge.svg)
+![Production Build](https://github.com/ajtadeo/ucla-panhellenic/workflows/Production%20Build/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4932fc43-c02a-4724-bfc0-0253ac602219/deploy-status)](https://app.netlify.com/sites/teach-la-ts-react-starter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd16e49-196f-402d-ab89-f81ed192f46f/deploy-status)](https://app.netlify.com/sites/uclapanhellenic/deploys)
 
 ## Overview
 
